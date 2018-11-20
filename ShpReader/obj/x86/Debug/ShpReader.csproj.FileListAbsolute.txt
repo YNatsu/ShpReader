@@ -1,0 +1,40 @@
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader\ShpReader\bin\Debug\ShpReader.exe
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader\ShpReader\bin\Debug\ShpReader.pdb
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader\ShpReader\obj\x86\Debug\ShpReader.Form1.resources
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader\ShpReader\obj\x86\Debug\ShpReader.Properties.Resources.resources
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader\ShpReader\obj\x86\Debug\ShpReader.csproj.GenerateResource.Cache
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader\ShpReader\obj\x86\Debug\ShpReader.exe
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader\ShpReader\obj\x86\Debug\ShpReader.pdb
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader\ShpReader\obj\x86\Debug\ShpReader.csprojResolveAssemblyReference.cache
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - 副本\ShpReader\obj\x86\Debug\ShpReader.exe
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - 副本\ShpReader\obj\x86\Debug\ShpReader.pdb
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - 副本\ShpReader\obj\x86\Debug\ShpReader.csprojResolveAssemblyReference.cache
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - 副本\ShpReader\obj\x86\Debug\ShpReader.Form1.resources
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - 副本\ShpReader\obj\x86\Debug\ShpReader.Properties.Resources.resources
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - 副本\ShpReader\obj\x86\Debug\ShpReader.csproj.GenerateResource.Cache
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - 副本\ShpReader\bin\Debug\ShpReader.exe
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - 副本\ShpReader\bin\Debug\ShpReader.pdb
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - PointOnPolygon\ShpReader\obj\x86\Debug\ShpReader.exe
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - PointOnPolygon\ShpReader\obj\x86\Debug\ShpReader.pdb
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - PointOnPolygon\ShpReader\bin\Debug\ShpReader.exe
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - PointOnPolygon\ShpReader\bin\Debug\ShpReader.pdb
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - PointOnPolygon\ShpReader\obj\x86\Debug\ShpReader.csprojResolveAssemblyReference.cache
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - PointOnPolygon\ShpReader\obj\x86\Debug\ShpReader.Form1.resources
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - PointOnPolygon\ShpReader\obj\x86\Debug\ShpReader.Properties.Resources.resources
+C:\Users\zxp\Documents\myprojects\学生项目\GIS算法与数据结构\C#版本\ShpReader - PointOnPolygon\ShpReader\obj\x86\Debug\ShpReader.csproj.GenerateResource.Cache
+C:\Users\zxp\Documents\教学\教学资料\17-18-1\GIS算法与数据结构\实验\ShpReader\ShpReader\obj\x86\Debug\ShpReader.exe
+C:\Users\zxp\Documents\教学\教学资料\17-18-1\GIS算法与数据结构\实验\ShpReader\ShpReader\obj\x86\Debug\ShpReader.pdb
+C:\Users\zxp\Documents\教学\教学资料\17-18-1\GIS算法与数据结构\实验\ShpReader\ShpReader\bin\Debug\ShpReader.exe
+C:\Users\zxp\Documents\教学\教学资料\17-18-1\GIS算法与数据结构\实验\ShpReader\ShpReader\bin\Debug\ShpReader.pdb
+C:\Users\zxp\Documents\教学\教学资料\17-18-1\GIS算法与数据结构\实验\ShpReader\ShpReader\obj\x86\Debug\ShpReader.csprojResolveAssemblyReference.cache
+C:\Users\zxp\Documents\教学\教学资料\17-18-1\GIS算法与数据结构\实验\ShpReader\ShpReader\obj\x86\Debug\ShpReader.Form1.resources
+C:\Users\zxp\Documents\教学\教学资料\17-18-1\GIS算法与数据结构\实验\ShpReader\ShpReader\obj\x86\Debug\ShpReader.Properties.Resources.resources
+C:\Users\zxp\Documents\教学\教学资料\17-18-1\GIS算法与数据结构\实验\ShpReader\ShpReader\obj\x86\Debug\ShpReader.csproj.GenerateResource.Cache
+H:\RiderProject\ShpReader\ShpReader\obj\x86\Debug\ShpReader.exe
+H:\RiderProject\ShpReader\ShpReader\obj\x86\Debug\ShpReader.pdb
+H:\RiderProject\ShpReader\ShpReader\bin\Debug\ShpReader.exe
+H:\RiderProject\ShpReader\ShpReader\bin\Debug\ShpReader.pdb
+H:\RiderProject\ShpReader\ShpReader\obj\x86\Debug\ShpReader.csprojResolveAssemblyReference.cache
+H:\RiderProject\ShpReader\ShpReader\obj\x86\Debug\ShpReader.Form1.resources
+H:\RiderProject\ShpReader\ShpReader\obj\x86\Debug\ShpReader.Properties.Resources.resources
+H:\RiderProject\ShpReader\ShpReader\obj\x86\Debug\ShpReader.csproj.GenerateResource.Cache
